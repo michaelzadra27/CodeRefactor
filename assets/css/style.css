@@ -91,6 +91,11 @@ Aside {
     color: #ffffff;
 }
 
+.benefit-lead h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -99,11 +104,6 @@ Aside {
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
-}
-
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
 }
 
 .benefit-brand h3 {
