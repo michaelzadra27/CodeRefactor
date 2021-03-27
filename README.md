@@ -7,9 +7,9 @@ Motivation for this project was to learn some code refactoring. It solves some a
 
 ## Screenshot
 
-    ![(./assets/images/screenshot.jpg)
+![screenshot](./assets/images/screenshot.jpg)
     
-    [Link to deployed webpage](https://michaelzadra27.github.io/CodeRefactor/)
+[Link to deployed webpage](https://michaelzadra27.github.io/CodeRefactor/)
 
 ## Credits
 Original code came from BCS for the website
